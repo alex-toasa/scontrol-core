@@ -1,0 +1,17 @@
+C:\C SHARP\scontrol-core\SControl.Infrastructure\obj\Debug\net8.0\SControl.Infrastructure.csproj.AssemblyReference.cache
+C:\C SHARP\scontrol-core\SControl.Infrastructure\obj\Debug\net8.0\SControl.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\C SHARP\scontrol-core\SControl.Infrastructure\obj\Debug\net8.0\SControl.Infrastructure.AssemblyInfoInputs.cache
+C:\C SHARP\scontrol-core\SControl.Infrastructure\obj\Debug\net8.0\SControl.Infrastructure.AssemblyInfo.cs
+C:\C SHARP\scontrol-core\SControl.Infrastructure\obj\Debug\net8.0\SControl.Infrastructure.csproj.CoreCompileInputs.cache
+C:\C SHARP\scontrol-core\SControl.Infrastructure\bin\Debug\net8.0\SControl.Infrastructure.deps.json
+C:\C SHARP\scontrol-core\SControl.Infrastructure\bin\Debug\net8.0\SControl.Infrastructure.runtimeconfig.json
+C:\C SHARP\scontrol-core\SControl.Infrastructure\bin\Debug\net8.0\SControl.Infrastructure.dll
+C:\C SHARP\scontrol-core\SControl.Infrastructure\bin\Debug\net8.0\SControl.Infrastructure.pdb
+C:\C SHARP\scontrol-core\SControl.Infrastructure\bin\Debug\net8.0\SControl.Domain.dll
+C:\C SHARP\scontrol-core\SControl.Infrastructure\bin\Debug\net8.0\SControl.Domain.pdb
+C:\C SHARP\scontrol-core\SControl.Infrastructure\obj\Debug\net8.0\SControl.92C6EBF1.Up2Date
+C:\C SHARP\scontrol-core\SControl.Infrastructure\obj\Debug\net8.0\SControl.Infrastructure.dll
+C:\C SHARP\scontrol-core\SControl.Infrastructure\obj\Debug\net8.0\refint\SControl.Infrastructure.dll
+C:\C SHARP\scontrol-core\SControl.Infrastructure\obj\Debug\net8.0\SControl.Infrastructure.pdb
+C:\C SHARP\scontrol-core\SControl.Infrastructure\obj\Debug\net8.0\SControl.Infrastructure.genruntimeconfig.cache
+C:\C SHARP\scontrol-core\SControl.Infrastructure\obj\Debug\net8.0\ref\SControl.Infrastructure.dll

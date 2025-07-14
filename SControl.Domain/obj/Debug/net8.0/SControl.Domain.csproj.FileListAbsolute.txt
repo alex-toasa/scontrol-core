@@ -1,0 +1,11 @@
+C:\C SHARP\scontrol-core\SControl.Domain\bin\Debug\net8.0\SControl.Domain.deps.json
+C:\C SHARP\scontrol-core\SControl.Domain\bin\Debug\net8.0\SControl.Domain.dll
+C:\C SHARP\scontrol-core\SControl.Domain\bin\Debug\net8.0\SControl.Domain.pdb
+C:\C SHARP\scontrol-core\SControl.Domain\obj\Debug\net8.0\SControl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\C SHARP\scontrol-core\SControl.Domain\obj\Debug\net8.0\SControl.Domain.AssemblyInfoInputs.cache
+C:\C SHARP\scontrol-core\SControl.Domain\obj\Debug\net8.0\SControl.Domain.AssemblyInfo.cs
+C:\C SHARP\scontrol-core\SControl.Domain\obj\Debug\net8.0\SControl.Domain.csproj.CoreCompileInputs.cache
+C:\C SHARP\scontrol-core\SControl.Domain\obj\Debug\net8.0\SControl.Domain.dll
+C:\C SHARP\scontrol-core\SControl.Domain\obj\Debug\net8.0\refint\SControl.Domain.dll
+C:\C SHARP\scontrol-core\SControl.Domain\obj\Debug\net8.0\SControl.Domain.pdb
+C:\C SHARP\scontrol-core\SControl.Domain\obj\Debug\net8.0\ref\SControl.Domain.dll

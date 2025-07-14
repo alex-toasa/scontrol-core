@@ -1,0 +1,6 @@
+@SControl.API_HostAddress = http://localhost:5220
+
+GET {{SControl.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
