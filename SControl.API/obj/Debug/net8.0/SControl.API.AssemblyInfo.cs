@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SControl.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b03eddeabcb0e66e66a5c88a575019c5cd832cdb")]
 [assembly: System.Reflection.AssemblyProductAttribute("SControl.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SControl.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
