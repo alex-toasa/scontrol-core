@@ -9,3 +9,4 @@ C:\C SHARP\scontrol-core\SControl.Domain\obj\Debug\net8.0\SControl.Domain.dll
 C:\C SHARP\scontrol-core\SControl.Domain\obj\Debug\net8.0\refint\SControl.Domain.dll
 C:\C SHARP\scontrol-core\SControl.Domain\obj\Debug\net8.0\SControl.Domain.pdb
 C:\C SHARP\scontrol-core\SControl.Domain\obj\Debug\net8.0\ref\SControl.Domain.dll
+C:\C SHARP\scontrol-core\SControl.Domain\obj\Debug\net8.0\SControl.Domain.sourcelink.json

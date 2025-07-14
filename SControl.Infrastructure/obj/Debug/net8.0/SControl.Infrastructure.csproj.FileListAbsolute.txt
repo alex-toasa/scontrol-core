@@ -15,3 +15,4 @@ C:\C SHARP\scontrol-core\SControl.Infrastructure\obj\Debug\net8.0\refint\SContro
 C:\C SHARP\scontrol-core\SControl.Infrastructure\obj\Debug\net8.0\SControl.Infrastructure.pdb
 C:\C SHARP\scontrol-core\SControl.Infrastructure\obj\Debug\net8.0\SControl.Infrastructure.genruntimeconfig.cache
 C:\C SHARP\scontrol-core\SControl.Infrastructure\obj\Debug\net8.0\ref\SControl.Infrastructure.dll
+C:\C SHARP\scontrol-core\SControl.Infrastructure\obj\Debug\net8.0\SControl.Infrastructure.sourcelink.json

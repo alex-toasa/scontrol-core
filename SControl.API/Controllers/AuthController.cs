@@ -61,7 +61,18 @@ namespace SControl.API.Controllers
 
             var tokenString = new JwtSecurityTokenHandler().WriteToken(token);
 
-            return Ok(new { token = tokenString });
+            return Ok(
+                new
+                {
+                    token = tokenString,
+                    user = new
+                    {
+                        email = user.Email,
+                        userName = user.UserName,
+                        role = roles.FirstOrDefault()
+                    }
+                }
+                );
         }
     }
 }
